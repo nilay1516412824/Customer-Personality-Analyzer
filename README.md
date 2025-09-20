@@ -44,7 +44,7 @@ Demo Video: https://www.loom.com/share/55d2a101f73042faa692513976c394c8?sid=8e35
 
 
 
-**Dataset**
+**~~Dataset**
 
 The project utilizes the marketing_campaign.csv dataset, which contains customer information such as:
 
@@ -57,7 +57,7 @@ The project utilizes the marketing_campaign.csv dataset, which contains customer
 
 
 
-**Models Used**
+**~~Models Used**
 
 The system employs several machine learning models to analyze and predict customer behavior:
 
@@ -67,10 +67,10 @@ The system employs several machine learning models to analyze and predict custom
 
 **3.Logistic Regression:** Utilized for binary classification tasks, such as predicting the likelihood of a customer making a purchase.
 
-**App Workflow**
 
 
 
+**~~App Workflow**
 
 **1.Data Preprocessing:** The dataset is cleaned and preprocessed to handle missing values, encode categorical variables, and normalize numerical features.
 
